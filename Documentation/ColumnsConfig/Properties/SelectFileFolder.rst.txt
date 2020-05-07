@@ -1,5 +1,5 @@
 fileFolder
-~~~~~~~~~~
+----------
 
 :aspect:`Datatype`
     string

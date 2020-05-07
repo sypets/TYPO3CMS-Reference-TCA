@@ -1,5 +1,5 @@
 foreign\_table\_where
-~~~~~~~~~~~~~~~~~~~~~
+---------------------
 
 :aspect:`Datatype`
     string (SQL WHERE)

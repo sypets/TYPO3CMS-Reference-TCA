@@ -1,5 +1,5 @@
 renderType
-~~~~~~~~~~~
+----------
 
 :aspect:`Datatype`
     string
